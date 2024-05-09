@@ -1,0 +1,1 @@
+hello my name is alex a.k.a. DevvTree and this repository is called odin-recipes, I will be using what i learned and putting it into practice.
